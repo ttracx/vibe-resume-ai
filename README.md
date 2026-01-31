@@ -1,3 +1,14 @@
+---
+title: vibe-resume-ai
+emoji: 📄
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+license: mit
+app_port: 8000
+---
+
 # 🚀 vibe-resume-ai
 
 AI-powered Resume Analyzer API. Get instant feedback on your resume, match against job descriptions, and receive actionable improvement suggestions.
